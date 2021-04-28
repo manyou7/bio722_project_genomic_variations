@@ -11,11 +11,11 @@ For this Bio722 project, I chose one cross (two parents and one progeny), as an 
 Here show all steps and scripts for the pipeline, including pre-processing steps (QC and trimming), read mapping and polishing, SNPs calling and classcifying, structural variation detection, functional annotation, and some plots.
 
 ### Pipeline:
-1. [Pre-processing](https://github.com/manyou7/bio722_project_genomic_variations/blob/3361a74fb74382bfb4f92567513722da75cf1b3d/1_pre_processing.md)
-2. [Mapping and Polishing](https://github.com/manyou7/bio722_project_genomic_variations/blob/d7c37105a7ac40b83e0206fc979dce817ba4a9db/2_mapping.md)
-3. [Variant calling](https://github.com/manyou7/bio722_project_genomic_variations/blob/01e4810d1d0725e7a8bde9d12f16d0368fbc6666/3_variant_calling.md)
-4. [_De novo_ mutations calling](https://github.com/manyou7/bio722_project_genomic_variations/blob/605838e20dc4f866779096ea812baea25fa72b95/4_denovo_mutations.md)
-5. [Structural variants detection](https://github.com/manyou7/bio722_project_genomic_variations/blob/01e4810d1d0725e7a8bde9d12f16d0368fbc6666/5_structural_variants.md)
-6. [Data visualization](https://github.com/manyou7/bio722_project_genomic_variations/blob/01e4810d1d0725e7a8bde9d12f16d0368fbc6666/6_plots.md)
+1. [Pre-processing](1_pre_processing.md)
+2. [Mapping and Polishing](2_mapping.md)
+3. [Variant calling](3_variant_calling.md)
+4. [_De novo_ mutations calling](4_denovo_mutations.md)
+5. [Structural variants detection](5_structural_variants.md)
+6. [Data visualization](6_plots.md)
 
 #### NOTE: Links might not work if the branch is not showing as main. I was not able to figure out why the branch name sometimes changes to a random name and the links won't work. But manually changing it back to main branch, all links will work again in each .md file.
