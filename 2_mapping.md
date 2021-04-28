@@ -108,6 +108,6 @@ augustus --progress=true --strand=both --species=cryptococcus_neoformans_neoform
 #NOTE: the option of species is different. 
 ```
 
-Now we have the alignments of each sample, we can next use them to call SNPs. Please click [HERE](https://github.com/manyou7/bio722_project_genomic_variations/blob/01e4810d1d0725e7a8bde9d12f16d0368fbc6666/3_variant_calling.md)
+Now we have the alignments of each sample, we can next use them to call SNPs. Please click [HERE](https://github.com/manyou7/bio722_project_genomic_variations/blob/afd26e179b5ce63fad07980dffb1eb0bbaf1bd80/3_variant_calling.md)
 
 
