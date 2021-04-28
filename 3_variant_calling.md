@@ -18,7 +18,7 @@ I used ```GATK``` to call variants which worked for my trial round before, but i
 cd ..
 mkdir freebayes ; cd freebayes
 
-# use the reference R265 to call SNPs with quality > 20
+# use the reference R265 to call SNPs. The VCF will be filtered using tools such as vcffilter in vcflib. Here, I used vcffilter to do quality control, only generate quality > 20. To generate a report only including SNPs, use vcffilter post-call.
 
 freebayes -f /scratch/youman7/reference/R265_VGII_NCBI_genomic.fna -p 2 /scratch/youman7/mapping/YM165_sorted.markdup.bam | vcffilter -f "QUAL > 20"| vcffilter -f "TYPE= snp"> YM165_freebayes.vcf
 
