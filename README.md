@@ -18,3 +18,4 @@ Here show all steps and scripts for the pipeline, including pre-processing steps
 5. [Structural variants detection](https://github.com/manyou7/bio722_project_genomic_variations/blob/01e4810d1d0725e7a8bde9d12f16d0368fbc6666/5_structural_variants.md)
 6. [Data visualization](https://github.com/manyou7/bio722_project_genomic_variations/blob/01e4810d1d0725e7a8bde9d12f16d0368fbc6666/6_plots.md)
 
+#### NOTE: Links might not work if the branch is not showing as main. I was not able to figure out why the branch name sometimes changes to a random name and the links won't work. But manually changing it back to main branch, all links will work again in each .md file.
