@@ -4,7 +4,7 @@ Author: "Man You"
 Date: "12/04/2021"
 Output: html_document
 ---
-Back to [Pre-precessing](https://github.com/manyou7/bio722_project_genomic_variations/blob/3361a74fb74382bfb4f92567513722da75cf1b3d/1_pre_processing.md) or [README](https://github.com/manyou7/bio722_project_genomic_variations/blob/01e4810d1d0725e7a8bde9d12f16d0368fbc6666/README.md)
+Back to [Pre-precessing](1_pre_processing.md) or [README](https://github.com/manyou7/bio722_project_genomic_variations/blob/01e4810d1d0725e7a8bde9d12f16d0368fbc6666/README.md)
 
 ## Read mapping
 
