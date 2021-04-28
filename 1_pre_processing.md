@@ -67,3 +67,5 @@ fastqc *.fastq -o fastqc_trimmed_dir/
 Good. They are all good!
 
 Now, all reads are ready to use for aligning. Please click [HERE](https://github.com/manyou7/bio722_project_genomic_variations/blob/01e4810d1d0725e7a8bde9d12f16d0368fbc6666/2_mapping.md)
+
+Yeah.
