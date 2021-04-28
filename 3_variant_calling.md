@@ -4,7 +4,7 @@ Author: "Man You"
 Date: "15/04/2021"
 Output: html_document
 ---
-Back to [Mapping and Polishing](https://github.com/manyou7/Bio722_project_genomic_variation/blob/346ee8842927b17bb02dea023d0c9673bbc3098f/2_mapping.md) or [README](https://github.com/manyou7/Bio722_project_genomic_variation/blob/73e10cbdcfe81b789a9d6b22b8bbdb2e336b3dda/README.md)
+Back to [Mapping and Polishing](https://github.com/manyou7/bio722_project_genomic_variations/blob/d7c37105a7ac40b83e0206fc979dce817ba4a9db/2_mapping.md) or [README](https://github.com/manyou7/bio722_project_genomic_variations/blob/01e4810d1d0725e7a8bde9d12f16d0368fbc6666/README.md)
 
 For variant calling, I used both the R265 reference genome and parental genomes as the reference. I decided to use parental genomes as references because I want to get _de novo_ SNPs between progeny and each parent. I think it should work, and even better if I use parental genomes as the reference to call variants. One of my concerns is that using reference genome to call variants individually and then comparing them would miss some information. For example, due to the differences between them and the reference genome, we might miss some variants. Directly using the parental genome would avoid it in a way.
 
@@ -136,7 +136,7 @@ vcftools --vcf YM165_CDC15_snp.vcf --SNPdensity 10000 --out YM165_CDC15_SNPS_den
 vcftools --vcf JF109_CDC15_snp.vcf --SNPdensity 10000 --out JF109_CDC15_SNPS_densityPer10Kb
 ```
 
-The scripts for generating plots are in 6_plots. But let's go see [denovo mutations](https://github.com/manyou7/Bio722_project_genomic_variation/blob/346ee8842927b17bb02dea023d0c9673bbc3098f/4_denovo_mutations.md) first. 
+The scripts for generating plots are in 6_plots. But let's go see [denovo mutations](https://github.com/manyou7/bio722_project_genomic_variations/blob/605838e20dc4f866779096ea812baea25fa72b95/4_denovo_mutations.md) first. 
 
 
 
