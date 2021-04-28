@@ -5,7 +5,7 @@ Date: "12/04/2021"
 Output: html_document
 ---
 
-Back to [structural variants](https://github.com/manyou7/Bio722_project_genomic_variation/blob/429305d62aeffb9c0a8c3a63a39cf29a1ccd0707/5_structural_variants.md) or [README](https://github.com/manyou7/Bio722_project_genomic_variation/blob/73e10cbdcfe81b789a9d6b22b8bbdb2e336b3dda/README.md)
+Back to [Structural Variants](https://github.com/manyou7/bio722_project_genomic_variations/blob/01e4810d1d0725e7a8bde9d12f16d0368fbc6666/5_structural_variants.md) or [README](https://github.com/manyou7/bio722_project_genomic_variations/blob/01e4810d1d0725e7a8bde9d12f16d0368fbc6666/README.md)
 
 # Data Visualization
 
