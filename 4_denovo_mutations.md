@@ -98,6 +98,7 @@ sed -i 's/CP025759.1/Chr1/g;s/CP025760.1/Chr2/g;s/CP025761.1/Chr3/g;s/CP025762.1
 ```
 
 Scripts of Plots are in 6_plots.Rmd. But now let's go check [structural variants detection](https://github.com/manyou7/bio722_project_genomic_variations/blob/01e4810d1d0725e7a8bde9d12f16d0368fbc6666/5_structural_variants.md).
+[Here](5_structural_variants.md)
 
 
 
