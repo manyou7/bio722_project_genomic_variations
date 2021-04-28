@@ -4,7 +4,7 @@ Author: "Man You"
 Date: "20/04/2021"
 Output: html_document
 ---
-Back to [_de novo_ mutations](https://github.com/manyou7/Bio722_project_genomic_variation/blob/346ee8842927b17bb02dea023d0c9673bbc3098f/4_denovo_mutations.md) or [README](https://github.com/manyou7/Bio722_project_genomic_variation/blob/73e10cbdcfe81b789a9d6b22b8bbdb2e336b3dda/README.md)
+Back to [_de novo_ mutations](https://github.com/manyou7/bio722_project_genomic_variations/blob/605838e20dc4f866779096ea812baea25fa72b95/4_denovo_mutations.md) or [README](https://github.com/manyou7/bio722_project_genomic_variations/blob/01e4810d1d0725e7a8bde9d12f16d0368fbc6666/README.md)
 
 Many tools could be used to detect structural variants, such as ```LUMPY```, ```BreakDancer``` and ```DELLY```. 
 
@@ -284,6 +284,6 @@ Summaries obtained from the HTML outputs by ```SnpEff```.
 - [YM165_common_sv_SnpEff_summary](https://rpubs.com/manyou7/YM165_common_sv)
 - [Parents_sv_SnpEff_summary](https://rpubs.com/manyou7/parents_common_sv)
 
-Please click [HERE](6_plot.md) to visualize the data.
+Please click [HERE](https://github.com/manyou7/bio722_project_genomic_variations/blob/01e4810d1d0725e7a8bde9d12f16d0368fbc6666/6_plots.md) to visualize the data.
 
 
