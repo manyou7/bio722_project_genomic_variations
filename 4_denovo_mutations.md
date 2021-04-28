@@ -4,7 +4,7 @@ Author: "Man You"
 Date: "10/04/2021"
 Output: html_document
 ---
-Back to [variant calling](https://github.com/manyou7/Bio722_project_genomic_variation/blob/346ee8842927b17bb02dea023d0c9673bbc3098f/3_variant_calling.md) or [README](https://github.com/manyou7/Bio722_project_genomic_variation/blob/73e10cbdcfe81b789a9d6b22b8bbdb2e336b3dda/README.md)
+Back to [variant calling](https://github.com/manyou7/Bio722_project_genomic_variation/blob/346ee8842927b17bb02dea023d0c9673bbc3098f/3_variant_calling.md) or [README](https://github.com/manyou7/bio722_project_genomic_variations/blob/01e4810d1d0725e7a8bde9d12f16d0368fbc6666/README.md)
 
 I found ```VarScan trio``` is a useful tool that can detect de novo mutations, as well as identify transmitted alleles. It can leverage the family relationship to improve variant calling accuracy, identify apparent Mendelian Inheritance Errors (MIEs), and detect high-confidence _de novo_ mutations. Although it was designed for human genome, I think it should work for fungi as well. The command requires "mpileup" for the father, mother and child in this order. So, I treated the two parents, JF109 as the father and CDC15 as the mother, based on their mating types, and of course, the progeny as the child. 
 
