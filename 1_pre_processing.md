@@ -4,7 +4,7 @@ Author: "Man You"
 Date: "10/04/2021"
 Output: html_document
 ---
-Back to [README](https://github.com/manyou7/bio722_project_genomic_variations/blob/01e4810d1d0725e7a8bde9d12f16d0368fbc6666/README.md)
+Back to [README](README.md)
 
 Illumina raw reads of two parents and their progeny were in fastq files. Before using these reads, we need to go through pre-processing steps, including quality control (QC) by ```FastQC``` and read trimming by ```Trimommatic```. Both tools are commonly used for pre-processing steps.
 
@@ -66,4 +66,4 @@ fastqc *.fastq -o fastqc_trimmed_dir/
 
 Good. They are all good!
 
-Now, all reads are ready to use for aligning. Please click [HERE](https://github.com/manyou7/bio722_project_genomic_variations/blob/01e4810d1d0725e7a8bde9d12f16d0368fbc6666/2_mapping.md)
+Now, all reads are ready to use for aligning. Please click [HERE](2_mapping.md)
