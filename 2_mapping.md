@@ -105,7 +105,7 @@ augustus --progress=true --strand=both --species=cryptococcus_neoformans_gattii 
 
 augustus --progress=true --strand=both --species=cryptococcus_neoformans_neoformans_B --protein=on --cds=on --codingseq=on CDC15.fasta --gff3=on > CDC15.gff
 
-#NOTE: the option of species is different. 
+# NOTE: the option of species is different. 
 ```
 
 Now we have the alignments of each sample, we can next use them to call SNPs. Please click [HERE](3_variant_calling.md)
