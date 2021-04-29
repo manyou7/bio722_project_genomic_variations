@@ -24,6 +24,8 @@ batch bwa.sh
 
 #!/bin/bash
 
+# index the reference genome
+
 bwa index /scratch/youman7/reference/R265_VGII_NCBI_genomic.fna
 
 path_to_data=/scratch/youman7/reads/
