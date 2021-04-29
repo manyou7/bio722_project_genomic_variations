@@ -28,11 +28,11 @@ setwd("~/R/Bio722_project_genomic_variation/snps/twocallers")
 
 # Read data
 
-YM165_JF109.snp <- read.table("~/R/Bio722_project_genomic_variation/snps/twocallers/YM165_JF109_unique_SNPs_densityPer10Kb.snpden", header=T)
+YM165_JF109.snp <- read.table("YM165_JF109_unique_SNPs_densityPer10Kb.snpden", header=T)
 
-YM165_CDC15.snp <- read.table("~/R/Bio722_project_genomic_variation/snps/twocallers/YM165_CDC15_unique_SNPs_densityPer10Kb.snpden", header=T)
+YM165_CDC15.snp <- read.table("YM165_CDC15_unique_SNPs_densityPer10Kb.snpden", header=T)
 
-CDC15_JF109.snp <- read.table("~/R/Bio722_project_genomic_variation/snps/twocallers/CDC15_JF109_unique_SNPs_densityPer10Kb.snpden", header=T)
+CDC15_JF109.snp <- read.table("CDC15_JF109_unique_SNPs_densityPer10Kb.snpden", header=T)
 
 # Add a new column called ID before merging them
 
